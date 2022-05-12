@@ -1,5 +1,5 @@
 # Junbin's HomeWeb
-[![](https://badgen.net/badge/icon/Website?icon=chrome&label)](http://junbin.xyz) 
+[![](https://badgen.net/badge/icon/Website?icon=chrome&label)](http://www.junbin.xyz) 
 
 ## Index
 
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This is Junbin's homeweb,  you can visit by the url [http://junbin.xyz](http://junbin.xyz)
+This is Junbin's homeweb,  you can visit by the url [http://www.junbin.xyz](http://www.junbin.xyz)
 
 In the safety considerations, temporary not open source code. I will open some of the front end codes in the future.
 
