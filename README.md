@@ -5,7 +5,7 @@
 
 This is Junbin's homeweb,  you can visit by the url [https://gaojunbin.github.io](https://gaojunbin.github.io)
 
-A more complete version can be seen the url [www.junbin.xyz](http://junbin.xyz)
+A more complete version can be seen the url [www.junbin.xyz](http://www.junbin.xyz)
 
 In the safety considerations, the complete version is not open source. Here is some of the front end codes.
 
