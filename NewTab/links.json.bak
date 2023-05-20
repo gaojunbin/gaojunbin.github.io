@@ -1,0 +1,19 @@
+{
+    "category": "CV related",
+    "links": [
+        {
+        "name": "arxiv-CV papers",
+        "url": "https://arxiv.org/list/cs.CV/recent"
+        },
+        {
+        "name": "CSRankings",
+        "url": "https://csrankings.org/#/index?all&asia"
+        },
+        {
+        "name": "CCF conference ddl",
+        "url": "https://ccfddl.github.io"
+        }
+    ]
+},
+
+

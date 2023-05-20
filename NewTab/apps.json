@@ -1,0 +1,13 @@
+{
+    "apps" : [
+        {"name":"HomeWeb","url":"www.junbin.xyz","icon":"home-circle-outline", "target": "_blank"},
+        {"name":"HomeWeb-OverLeaf","url":"www.junbin.xyz:8080","icon":"book"},
+        {"name":"LocalHost","url":"localhost","icon":"laptop"},
+        {"name":"OneHust","url":"pass.hust.edu.cn","icon":"numeric-1-circle-outline"},
+        {"name":"MyGitHub","url":"github.com/gaojunbin","icon":"github"},
+        {"name":"Wifi-THU","url":"172.16.100.1:8887","icon":"wifi"},
+        {"name":"Wifi-HUST","url":"myself.hust.edu.cn","icon":"wifi"},
+        {"name":"arxiv-CV papers","url":"arxiv.org/list/cs.CV/recent","icon":"note-text"},
+        {"name":"NUS-Liu Lab","url":"www.boxiangliulab.com","icon":"database"}
+    ]
+}

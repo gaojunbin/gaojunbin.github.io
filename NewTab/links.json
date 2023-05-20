@@ -1,0 +1,127 @@
+{
+            "bookmarks" : [
+              {
+                "category": "NUS",
+                "links": [
+                  {
+                    "name": "Medicine",
+                    "url": "https://medicine.nus.edu.sg/graduatestudies/prospective-students/"
+                  },
+                  {
+                    "name": "Science",
+                    "url": "https://www.science.nus.edu.sg/graduates/phd"
+                  },
+                  {
+                    "name": "Apply",
+                    "url": "https://inetapps.nus.edu.sg/gda2/Home.aspx"
+                  }
+                ]
+              },
+              {
+                "category": "Liulab",
+                "links": [
+                  {
+                    "name": "OneDrive",
+                    "url": "https://nusu-my.sharepoint.com/personal/bliu_nus_edu_sg/_layouts/15/onedrive.aspx?ga=1"
+                  },
+                  {
+                    "name": "GitHub",
+                    "url": "https://github.com/boxiangliulab"
+                  }
+                ]
+              },
+              {
+                "category": "Dev",
+                "links": [
+                  {
+                    "name": "Github",
+                    "url": "https://github.com"
+                  },
+                  {
+                    "name": "Gitee",
+                    "url": "https://gitee.com"
+                  },
+                  {
+                    "name": "GitLab",
+                    "url": "https://gitlab.com"
+                  }
+                ]
+              },
+              {
+                "category": "Scholar",
+                "links": [
+                  {
+                    "name": "Google Scholar",
+                    "url": "https://scholar.google.com"
+                  },
+                  {
+                    "name": "中国知网",
+                    "url": "https://www.cnki.net"
+                  }
+                ]
+              },
+              {
+                "category": "Publication",
+                "links": [
+                  {
+                    "name": "Web of Science",
+                    "url": "https://www.webofscience.com/"
+                  },
+                  {
+                    "name": "中科院分区",
+                    "url": "https://www.fenqubiao.com"
+                  },
+                  {
+                    "name": "中国计算机学会",
+                    "url": "https://www.ccf.org.cn/Academic_Evaluation/AI"
+                  }
+                ]
+              },
+              {
+                "category": "HUST",
+                "links": [
+                  {
+                    "name": "自动化学院",
+                    "url": "http://aia.hust.edu.cn"
+                  },
+                  {
+                    "name": "研究生院",
+                    "url": "http://gs.hust.edu.cn"
+                  },
+                  {
+                    "name": "Prof. Zeng",
+                    "url": "http://aia.hust.edu.cn/info/1208/4819.htm"
+                  }
+                ]
+              },
+              {
+                "category": "Abroad",
+                "links": [
+                  {
+                    "name": "中国国家留学基金委",
+                    "url": "https://www.csc.edu.cn"
+                  },
+                  {
+                    "name": "一亩三分地",
+                    "url": "https://www.1point3acres.com"
+                  }
+                  
+                ]
+              },
+              {
+                "category": "English",
+                "links": [
+                  {
+                    "name": "IELTS",
+                    "url": "https://www.chinaielts.org"
+                  },
+                  {
+                    "name": "GRE",
+                    "url": "https://gre-main.neea.cn/"
+                  }
+                  
+                ]
+              }
+              
+            ]
+        }
